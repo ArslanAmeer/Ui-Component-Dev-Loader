@@ -17,6 +17,7 @@ body {
     margin: auto;
     margin-top: 30vh;
     overflow: hidden;
+    user-select: none;
 }
 
 .line {
