@@ -2,8 +2,8 @@
 
 ## A Dev Feel (Coding) Pre-Loader 🕶 Inspired by Vs Code! 🎭
 
-### Dev Pre Loader made with HTML5 & CSS3 only 👍👌 .
-
+### Dev Pre Loader made with HTML5 & CSS3 only 👍👌 . Used CSS Variables & CSS Animation (Keyframes) 
+ 
 Basic Simple and Easy To Use. 😎
 
 ## DEMO😍:
